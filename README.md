@@ -36,10 +36,6 @@
 ![스크롤 업 버튼](./readmepic/scroll.png)
 
 
-### 오류
-![스크롤 업 버튼](./readmepic/error.png)
--카카오 맵 api 불러오기 실패
-
 ### Hover 기능추가
 ![스크롤 업 버튼](./readmepic/hovergif.gif)
 
