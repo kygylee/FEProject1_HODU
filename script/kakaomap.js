@@ -1,7 +1,7 @@
 var mapContainer = document.getElementById('s_contents_address_map'), 
     mapOption = {
         center: new kakao.maps.LatLng(33.4423464, 126.5714548), 
-        level: 4 
+        level: 3 
     };
 
 

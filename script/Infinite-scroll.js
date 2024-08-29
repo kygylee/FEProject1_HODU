@@ -28,13 +28,13 @@ const makeImageList = (datas) => {
 };
 
 const infinityScroll = () => {
-    const cardWrap = document.querySelector('.s_contents_catimgbox');
+    const cardWrap = document.querySelector('.s_contents_catpic');
     const scrollTop = cardWrap.scrollTop; 
     const scrollHeight = cardWrap.scrollHeight; 
     const clientHeight = cardWrap.clientHeight; 
 
     console.log('scroll!'); 
-    if (scrollTop + clientHeight + 10 >= scrollHeight && !loadingImages) { /
+    if (scrollTop + clientHeight + 10 >= scrollHeight && !loadingImages) { 
         loadingImages = true; 
         fetchImages(pageToFetch++);
     }
@@ -53,7 +53,7 @@ const throttling = (callback, delay) => {
     };
 };
 
-const LoadButton = document.querySelector(".s_contents_showmore_buttonn");
+const LoadButton = document.querySelector(".s_contents_showmore_button");
 const CancelButton = document.querySelector(".s_contents_cancel_button");
 
 const ButtonContainer = document.querySelector(".s_contents_button");
