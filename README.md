@@ -22,7 +22,7 @@
 ## 레이아웃
 
 ### 전체페이지
-![전체페이지](./readmepic/전체페이지.png)
+![전체페이지](./readmepic/page.png)
 
 
 
@@ -35,9 +35,6 @@
 
 ![스크롤 업 버튼](./readmepic/scroll.png)
 
-
-### Hover 기능추가
-![스크롤 업 버튼](./readmepic/hovergif.gif)
 
 
 
