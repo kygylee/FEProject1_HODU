@@ -5,6 +5,8 @@
 
 [피그마 사이트 링크](<https://www.figma.com/design/s9RCnA6dSi3QHHeMDFHKE6/EST-%EC%98%A4%EB%A5%B4%EB%AF%B8(BE)_HTML%2FCSS%2FJS?node-id=104924-12&t=DkHqKMa1PBxYw4n3-0>)
 
+https://kygylee.github.io/FEProject1_HODU/
+
 1. 피그마를 참고하여 페이지 구현을 합니다.
 2. 스크롤시 헤더가 고정되게 합니다. (단, 처음에는 고정된 상태가 아닙니다.)
 3. 스크롤 탑 버튼을 구현합니다. 
