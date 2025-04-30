@@ -1,4 +1,4 @@
-# ESTsoft 오르미 6기 FE Project
+# Project
 
 
 ## 구현 기능
